@@ -27,7 +27,7 @@ SECRET_KEY = 'q0@+*lilzw(bk=znek&z^v8yu2=f1ygwk3^a&6co*x=d6ky#ix'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','localhost','sentio.pythonanywhere.com',]
 
 
 # Application definition
